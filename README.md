@@ -1,5 +1,5 @@
 👋 Hi, I'm **Gulshan M**  
-**MERN Stack Developer** | **B.Tech IT** | **Ramco Institute of Technology**  
+**MERN Stack Developer** | **B.E CSE** | **Ramco Institute of Technology**  
 **Tenkasi, Tamil Nadu** 🏞️
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gulshan-M2005&show_icons=true&theme=radical&hide_border=true)
