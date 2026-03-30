@@ -47,6 +47,6 @@ Tools: Git - VS Code - Vercel - Figma
 
 ---
 
-**📧 gulshanm2005@gmail.com**  
+**📧 mdgulshan2005@gmail.com**  
 **📱 +91-9488669395** | **📍 Tenkasi, Tamil Nadu**  
 
